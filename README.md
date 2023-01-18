@@ -11,10 +11,11 @@ La siguiente API tiene como requerimientos los siquientes puntos:
 - **Angular:** Se esta utilizando la version `14.2.5`
 
 ## Requerimientos para correr el API
-```
+
 - Sql Server en su versión 2019
 
-## Correr API en DEV
+## Instalación
+```
 $ npm install 
 $ npm run dev
 ```
