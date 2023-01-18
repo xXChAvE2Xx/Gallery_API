@@ -5,9 +5,6 @@ La siguiente API tiene como requerimientos los siquientes puntos:
 - Habilitar un endpoint para eliminar una imagen especifica.
 - Habilitar un endpoint para actualizar titulo y descripción de una image. 
 
-## Diagrama de funcionamiento
-![404 Not Found]()
-
 ## Herramientas utilizadas
 - **Node:** Se esta utilizando la version `16.17.1`
 - **npm:** Se esta utilizando la version `8.15.0`
@@ -35,5 +32,3 @@ $ npm run dev
 | `localhost:3000/api/photos/:id`                 | DELETE |Elimina el titulo, descripción e imagen del ID recibido. |
 | `localhost:3000/api/photos/:id`                 | UPDATE |Actualiza el titulo y descripción del ID enviado.        |
 
-## Demo
-![404 Not Found]()
